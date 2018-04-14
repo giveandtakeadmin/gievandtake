@@ -1,0 +1,22 @@
+{
+  "name": "giveandtake",
+  "version": "1.0.0",
+  "description": "Created the giveandtake npm project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giveandtakeadmin/giveandtake.git"
+  },
+  "author": "Jiju K Jose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giveandtakeadmin/giveandtake/issues"
+  },
+  "homepage": "https://github.com/giveandtakeadmin/giveandtake#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
